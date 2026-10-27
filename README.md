@@ -16,6 +16,6 @@ A simple console application written in Python to manage currency conversion and
 1. Open your terminal or IDE.
 2. Run the script:
    ```bash
-   python main.py
+   python "FINANCE MULTI-TOOL.py"
    ```
 3. Follow the on-screen menu instructions.
